@@ -25,10 +25,10 @@ While this repository hosts a lightweight sample dataset (`data/sample-pellet-gr
 
 We maintain a suite of free, browser-based estimation tools designed to take the guesswork out of outdoor cooking and grill sizing:
 
-* **[Pellet Consumption Calculator](https://grillingyard.com):** Estimate how many pounds of wood pellets you will burn based on ambient outdoor temperature, target cooking temperature, grill insulation, and cook duration.
-* **[BBQ Party Food Calculator](https://grillingyard.com):** Calculate exact raw meat quantities (brisket, pulled pork, ribs, chicken, burgers) and side portions based on guest count and appetite levels.
-* **[Pellet Grill Size Chart & Guide](https://grillingyard.com):** Visual capacity breakdown showing how many racks of ribs, whole chickens, or pork butts fit on standard cooking grates (400 sq. in. to 1,200+ sq. in.).
-* **[Wood Pellet Flavor Pairing Guide](https://grillingyard.com):** Match hardwood pellet profiles (Hickory, Mesquite, Apple, Cherry, Oak, Pecan) with specific meats and smoking temperatures.
+* **[Pellet Consumption Calculator](https://grillingyard.com/tools/pellet-consumption-calculator/):** Estimate how many pounds of wood pellets you will burn based on ambient outdoor temperature, target cooking temperature, grill insulation, and cook duration.
+* **[BBQ Party Food Calculator](https://grillingyard.com/tools/bbq-party-calculator/):** Calculate exact raw meat quantities (brisket, pulled pork, ribs, chicken, burgers) and side portions based on guest count and appetite levels.
+* **[Pellet Grill Size Chart & Guide](https://grillingyard.com/tools/pellet-grill-size-chart/):** Visual capacity breakdown showing how many racks of ribs, whole chickens, or pork butts fit on standard cooking grates (400 sq. in. to 1,200+ sq. in.).
+* **[Wood Pellet Flavor Pairing Guide](https://grillingyard.com/tools/wood-pellet-pairing-guide/):** Match hardwood pellet profiles (Hickory, Mesquite, Apple, Cherry, Oak, Pecan) with specific meats and smoking temperatures.
 
 ---
 
