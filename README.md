@@ -32,7 +32,7 @@ We maintain a suite of free, browser-based estimation tools designed to take the
 
 ---
 
-## 📁 Sample Data Schema (`data/sample-pellet-grills.csv`)
+## 📁 Sample Data Schema (`sample-pellet-grills.csv`)
 
 The sample CSV included in this repository follows a standardized schema used across our database:
 
